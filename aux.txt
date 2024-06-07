@@ -1,0 +1,22 @@
+Team - 12 
+Varun Teja  - CS22B050
+Sri Charith - CS22B052
+
+Both of us have contributed equally to this assignment.
+We tried our best to distribute and complete the assigned task.
+
+We have used some online resources like the 
+1) AVR instruction set manual : 
+ [https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf]
+2) Atmega328P datasheet : 
+[https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf]
+The next resource for making drawings for the schematic
+3) Wondershare Edraw software (for drawing block diagrams) : 
+[https://www.edrawsoft.com/ad/edrawmax-diagram-tool.html?gad=1&gclid=CjwKCAiA0syqBhBxEiwAeNx9NwhTOfxdJqbuieY49dca-WLbFO1p0f72tXsRzYU55TUd3It_PkgLKhoCsqsQAvD_BwE]
+
+For improving our designs and for clearing few doubts in implementing some of the programs, we have discussed with 
+Saketh Sai Ram -  EE22B022
+Sahithi        -  EE22B080
+Manaswini      -  EE22B065
+Sreevasthav    -  CS22B038 
+Moumitha       -  CS22B020
